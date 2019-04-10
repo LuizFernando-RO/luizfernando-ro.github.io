@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1554837110,
+	"version": 1554854903,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -31,6 +31,16 @@
 		"images/sprite4-sheet0.png",
 		"images/sprite4-sheet1.png",
 		"images/sprite4-sheet2.png",
+		"images/particles.png",
+		"images/playbutton-sheet0.png",
+		"images/exitbutton-sheet0.png",
+		"images/settingsbutton-sheet0.png",
+		"images/sprite6-sheet0.png",
+		"media/bump fx.ogg",
+		"media/explode fx.ogg",
+		"media/one shot laser fx.ogg",
+		"media/thrust loop fx.ogg",
+		"media/washyspaceguitar.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
