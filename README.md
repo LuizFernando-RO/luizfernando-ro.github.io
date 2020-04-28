@@ -6,6 +6,8 @@ Repositório para exposição de portfólio
 
 # Machine Learning / Data Science
 
+## TensorFlow
+
 # Big Data
 
 # Mobile
