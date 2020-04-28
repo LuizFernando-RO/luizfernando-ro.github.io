@@ -4,11 +4,15 @@
 
 Repositório para exposição de portfólio
 
+# Machine Learning / Data Science
+
+# Big Data
+
 # Mobile
 
 ## Flutter
 
-# Games
+# GameDev
 
 ## [Dog vs Alien](https://luizfernando-ro.github.io/DogVsAlien)
 
